@@ -16,18 +16,18 @@ Don't foget that the user may select the same 'from' and 'to' values. You should
 #Evaluation Criteria
 
 Error Checking/Validation
-	List box 1 selected
-  List box 2 selected
-  Text box Tryparse	
-  Positive values	
-  Nested structure
+- List box 1 selected
+- List box 2 selected
+- Text box Tryparse	
+- Positive values	
+- Nested structure
 
 Lengths converted properly
 Results displayed and labeled properly
   
 Use of control structures
-  Efficient Codint
-  Nesting
+- Efficient Coding
+- Nesting
 
 Format/Readability/Organization
 Comments/Documentation
