@@ -30,5 +30,7 @@ Use of control structures
 - Nesting
 
 Format/Readability/Organization
+
 Comments/Documentation
+
 Variables/Control Naming
