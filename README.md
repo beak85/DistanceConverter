@@ -5,7 +5,7 @@
 1 Foot = 12 Inches
 
 
-Use the image given to lay out your form exactly as shown.
+Use the image given (DistanceConverter.png) to lay out your form exactly as shown.
 The user must enter a value (decimals allowed) in the text box and then select the original
 unit of meaure on the left and the unit to be converted to on the right.
 
