@@ -1,13 +1,15 @@
 # DistanceConverter
 
 1 Yard = 3 Feet
+
 1 Foot = 12 Inches
 
-Use the image given to lay out your form exactly as shown.
-The user must enters a value (decimals allowed) in the list box and then selects the original
-unit of meaure on the left and the unit to convert to, on the right.
 
-You will need to get the user input from the text box and the radio buttons. Be sure to use validation.
+Use the image given to lay out your form exactly as shown.
+The user must enter a value (decimals allowed) in the text box and then select the original
+unit of meaure on the left and the unit to be converted to on the right.
+
+You will need to get the user input from the text box and the list boxes. Be sure to use validation.
 Convert to the proper values and display the results, rounding to two decimal places.
 Don't foget that the user may select the same 'from' and 'to' values. You should still display the results in that case.
 
@@ -24,6 +26,7 @@ Error Checking/Validation
 - Nested structure
 
 Lengths converted properly
+
 Results displayed and labeled properly
   
 Use of control structures
