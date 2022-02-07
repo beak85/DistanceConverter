@@ -13,7 +13,7 @@ unit of meaure on the left and the unit to be converted to on the right.
 
 You will need to get the user input from the text box and the list boxes. Be sure to use validation.
 Convert to the proper values and display the results, rounding to two decimal places.
-Don't foget that the user may select the same 'from' and 'to' values. You should still display the results in that case.
+Don't forget that the user may select the same 'from' and 'to' values. You should still display the results in that case.
 
 
 
